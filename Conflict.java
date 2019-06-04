@@ -1,4 +1,4 @@
 publi static void main(string[] args){
-	System.out.printon("Heoll world")
+	System.out.println("Heoll world");
 
 }
